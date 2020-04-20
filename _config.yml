@@ -1,0 +1,4 @@
+#build settings
+markdown: kramdown
+remote_theme: 
+jekyll-theme-dark-reader
